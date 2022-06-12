@@ -18,7 +18,7 @@ To deploy this project run
 Install my-project with npm
 
 ```bash
-    npm install next react react-dom
+    npm install 
 ```
     
 
